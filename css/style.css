@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+.navbar a{
+    list-style: none;
+    text-decoration: none;
+    font-family: "Dancing Script", serif;
+    font-size: 30px; 
+    padding-top: 20px;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    background-color: gold;
+}
